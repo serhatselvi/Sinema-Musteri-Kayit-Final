@@ -1,0 +1,1 @@
+{ "id": 1, "name": "IMAX 1", "isImax": true, "fiyat": 20.0, "oynatilanFilm": { "ad": "Cesur Yurek", "sure": 160, "tur": "Aksiyon", "isYabanci": true }, "musteriler": [{ "id": 1, "name": "Ahmet" }] }
